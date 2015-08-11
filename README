@@ -1,0 +1,4 @@
+Sort of an analogue to Linux's logrotate.
+Recursively zips and deletes files starting from an arbitrary path.
+Works best running once per day as a scheduled task.
+Originally written to manage IIS logfiles.
